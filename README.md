@@ -5,9 +5,9 @@ This repository has a dual purpose. First, it tracks what I'm learning. Second, 
 ## 2018
 
 For this year, I have three major study goals. Those are to:
-- Significantly improve my math
+- Significantly improve my math. 
 - Finish listed courses through Algorithms II.
-- Practice a ton of CSS
+- Practice a ton of CSS. 
 
 I'll also throw in some work-related shorter courses, a language (Spanish?), and programming books & projects.
 
@@ -34,6 +34,7 @@ Total Points earned:
 - [ ] [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 - [ ] [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+- [ ] [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 - [ ] [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 - [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
