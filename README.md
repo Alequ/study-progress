@@ -1,8 +1,15 @@
 # Progress towards my learning goals
 
+This repository has a dual purpose. First, it tracks what I'm learning. Second, it houses all of my notes related to my studies-organized by year.
+
 ## 2018
 
-something about your goals here
+For this year, I have three major study goals. Those are to:
+- Significantly improve my math
+- Finish listed courses through Algorithms II.
+- Practice a ton of CSS
+
+I'll also throw in some work-related shorter courses, a language (Spanish?), and programming books & projects.
 
 ## Progress
 
@@ -91,20 +98,13 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
-| Physical Activity (30 minutes)                          | 10                    | foundation    |
-| Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
 | Khan Academy (30 minutes)                          | 10                    | foundation    |
-| Analytics Vidhya Competition                | 50                    | data-science  |
-| Crowd Analytix Competition                  | 50                    | data-science  |
-| Kaggle Competition                          | 50                    | data-science  |
-| Driven Data Competition                     | 50                    | data-science  |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
 | Video Tutorial                              | 50                    | communication |
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
 | Team Up for a project                       | 100                   | communication |
-| Diary entry                                 | 5                     | communication |
 | CodeWars (10 problems)                      | 50                    | algorithms    |
 | CodinGame (1 Tier)                          | 100                   | algorithms    |
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
