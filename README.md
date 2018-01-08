@@ -7,7 +7,7 @@ This repository has a dual purpose. First, it tracks what I'm learning. Second, 
 For this year, I have three major study goals. Those are to:
 - Significantly improve my math. 
 - Finish listed courses through Algorithms II.
-- Practice a ton of CSS. 
+- Get exposure to smart contract and dApp development. 
 
 I'll also throw in some work-related shorter courses, a language (Spanish?), and programming books & projects.
 
