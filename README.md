@@ -15,11 +15,16 @@ I'll also throw in some work-related shorter courses, a language (Spanish?), and
 
 Current Course: How to Code: Simple Data     
 Courses Completed: 0  
-Total Points earned: 
+Total Points earned: 220 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+|01-06-2018  | Duolingo (Spanish level 3)  | 100  | [Duolingo](https://www.duolingo.com/rishispeets)  |
+|01-08-2018  | Duolingo (Spanish level 4)  | 100  | [Duolingo](https://www.duolingo.com/rishispeets)  |
+|01-08-2018  | 10  | Khan Academy  | [Khan Academy](https://nl.khanacademy.org/profile/rishispeets/)  |
+|WIP | Course  | 500  | How to Code: Simple Data  |
+|WIP | Book  | 100  | JavaScript Allonge  |
+|01-09-2018  | 10  | Khan Academy  | [Khan Academy](https://nl.khanacademy.org/profile/rishispeets/)  |
 
 
 ## Computer Science Intensive
