@@ -15,7 +15,7 @@ I'll also throw in some work-related shorter courses, a language (Spanish?), and
 
 Current Course: How to Code: Simple Data     
 Courses Completed: 0  
-Total Points earned: 445 
+Total Points earned: 435 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -27,7 +27,7 @@ Total Points earned: 445
 |01-09-2018  |Khan Academy |15     | [Khan Academy](https://nl.khanacademy.org/profile/rishispeets/)  |
 |01-10-2018  | Duolingo (Spanish level 5)  | 100  | [Duolingo](https://www.duolingo.com/rishispeets)  |
 |01-10-2018  | Duolingo (Spanish level 6)  | 100  | [Duolingo](https://www.duolingo.com/rishispeets)  |
-|01-10-2018  | Khan Academy  |15   | [Khan Academy](https://nl.khanacademy.org/profile/rishispeets/)  |
+|01-10-2018  | Khan Academy  |10   | [Khan Academy](https://nl.khanacademy.org/profile/rishispeets/)  |
 
 ## Computer Science Intensive
 
